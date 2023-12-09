@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import time 
+import plotly
 import plotly.express as px
 import setuptools
 from . import data, colors
