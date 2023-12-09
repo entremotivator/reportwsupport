@@ -3,6 +3,7 @@ import pandas as pd
 import time 
 import plotly.express as px
 import setuptools
+from . import data, colors
 
 
 # Example data for language model metrics
