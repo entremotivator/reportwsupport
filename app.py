@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import time 
 import plotly.express as px
+import setuptools
 from streamlit_plotly_events import plotly_events
 
 # Example data for language model metrics
